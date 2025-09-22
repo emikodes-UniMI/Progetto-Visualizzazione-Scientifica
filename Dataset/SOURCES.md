@@ -5,3 +5,5 @@ https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-tren
 https://www.kaggle.com/datasets/samayashar/ai-powered-job-recommendations
 
 https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030
+
+https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/data
