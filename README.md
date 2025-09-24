@@ -1,4 +1,4 @@
-# Progetto Visualizzazione Scientifica
+# Progetto Visualizzazione Scientifica [Valutazione: 30]
 📈Impatto dell'AI sul mondo del lavoro. Un'analisi approfondita.
 ---
 ### Repository Structure
